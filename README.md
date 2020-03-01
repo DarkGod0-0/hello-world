@@ -1,2 +1,3 @@
 # hello-world
-welcome to Freetale
+Hi im CHEEZEY
+WELCOME!
